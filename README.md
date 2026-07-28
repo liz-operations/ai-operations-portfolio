@@ -1,5 +1,5 @@
 # AI & Operations Portfolio
-### Elizabeth ("Liz") Andrade
+### Elizabeth ("Liz") Couture
 
 Hi! I'm Liz, an operations professional with a passion for improving systems, documenting processes, and integrating AI into everyday workflows.
 
