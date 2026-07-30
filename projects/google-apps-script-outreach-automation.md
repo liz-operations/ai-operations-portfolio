@@ -84,3 +84,11 @@ It also strengthened my understanding of how AI tools and automation can complem
 ## Note
 
 This portfolio describes the workflow and my contributions at a high level. Proprietary business information, internal data, and implementation details have been intentionally omitted.
+
+## Screenshots
+
+### Google Apps Script Automation
+
+![Google Apps Script Overview](../Screenshot%202026-07-29%20203346.png)
+
+This screenshot shows the Google Apps Script automation used to manage commercial outreach. The workflow includes configurable settings, a custom Google Sheets menu, batch email processing, spreadsheet integration, and Gmail automation.
