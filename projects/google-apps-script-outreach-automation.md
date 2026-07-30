@@ -92,3 +92,4 @@ This portfolio describes the workflow and my contributions at a high level. Prop
 ![Google Apps Script Overview](../Screenshot%202026-07-29%20203346.png)
 
 This screenshot shows the Google Apps Script automation used to manage commercial outreach. The workflow includes configurable settings, a custom Google Sheets menu, batch email processing, spreadsheet integration, and Gmail automation.
+*Figure 1. Google Apps Script automation showing configuration settings, custom Google Sheets menu creation, and email batch processing.*
