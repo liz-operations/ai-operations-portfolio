@@ -13,6 +13,32 @@
 ## Technologies Used
 
 ## Lessons Learned
+---
+
+## Business Impact
+
+- Developed repeatable search strategies that reduced manual prospecting.
+- Improved lead quality by identifying decision-makers instead of general contacts.
+- Standardized lead generation workflows across multiple industries.
+- Organized qualified leads for scalable commercial outreach.
+
+---
+
+## Screenshots
+
+### Company Research
+
+![Apollo Company Search](../Screenshot%202026-07-29%20204949.png)
+
+Used Apollo to identify companies that matched our target market based on industry, location, and business characteristics.
+
+---
+
+### Decision-Maker Identification
+
+![Apollo People Search](../Screenshot%202026-07-29%20205351.png)
+
+Built targeted searches to identify the people most likely to hire commercial exterior maintenance vendors using job title, geography, and company filters.
 # Apollo Commercial Lead Generation Pipeline
 
 ## Project Overview
