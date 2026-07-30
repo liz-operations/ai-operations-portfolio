@@ -28,7 +28,7 @@
 
 ### Company Research
 
-![Apollo Company Search](../Screenshot%202026-07-29%20204949.png)
+![Apollo Company Search](../Screenshot%202026-07-29%20205233.png)
 
 Used Apollo to identify companies that matched our target market based on industry, location, and business characteristics.
 
