@@ -28,7 +28,7 @@
 
 ### Company Research
 
-![Apollo Company Search](../Screenshot%202026-07-29%20205233.png)
+![Apollo Company Search](../apollo-company-search.png)
 
 Used Apollo to identify companies that matched our target market based on industry, location, and business characteristics.
 
@@ -36,7 +36,7 @@ Used Apollo to identify companies that matched our target market based on indust
 
 ### Decision-Maker Identification
 
-![Apollo People Search](../Screenshot%202026-07-29%20205351.png)
+![Apollo People Search](../apollo-people-search.png)
 
 Built targeted searches to identify the people most likely to hire commercial exterior maintenance vendors using job title, geography, and company filters.
 # Apollo Commercial Lead Generation Pipeline
